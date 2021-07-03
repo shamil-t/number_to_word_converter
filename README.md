@@ -5,6 +5,6 @@
  ### sample out put
 
 ```sh
-123456789
-one thousand two hundred thirty four million fifty six thousand seven hundred eighty nine dollars
+1234567890
+one billion two thousand three hundred forty five million sixty seven thousand eight hundred ninety dollars
 ```
